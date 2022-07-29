@@ -7,4 +7,4 @@ jupyter-core==4.11.1
 numpy==1.23.1
 pandas==1.4.3
 seaborn==0.11.2
-serenity.sdk.python==0.8.1
+serenity.sdk.python==0.8.2
